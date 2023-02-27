@@ -1,0 +1,10 @@
+body {
+  background-color: beige;
+}
+
+nav {
+  display: flex;
+  border: 1px solid blue;
+  background-color: beige;
+  justify-content: space-around;
+}
